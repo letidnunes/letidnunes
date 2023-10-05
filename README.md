@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java Script! I'm in the begging of my learning.
 - 💞️ I’m looking to collaborate on making better codes.
 - 📫 How to reach me:
-    You can e-mail me at: dossonunesleticia@gmail.com
-    You can also find me in LinkedIn: Letícia Dosso Nunes
+- You can e-mail me at: dossonunesleticia@gmail.com
+- You can also find me in LinkedIn: Letícia Dosso Nunes
 
 <!---
 letidnunes/letidnunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
